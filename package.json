@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "@babylonjs/core": "^4.2.0",
+    "babylonjs": "^4.2.0",
+    "babylonjs-loaders": "^4.2.0",
     "cannon": "^0.6.2",
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
